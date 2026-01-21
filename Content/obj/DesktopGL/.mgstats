@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/alex06/Development/Projects/2023/monogame/Content/audio/BGM/casino.wav","/home/alex06/Development/Projects/2023/monogame/Content/bin/DesktopGL/audio/BGM/casino.xnb","SongProcessor","SongContent",23626350,124,4.1735387
+"/home/alex06/Development/Projects/2023/monogame/Content/ball.png","/home/alex06/Development/Projects/2023/monogame/Content/bin/DesktopGL/Content/ball.xnb","TextureProcessor","Texture2DContent",8368,16469,0.3475934
+"/home/alex06/Documents/Local Development/monogame/Content/maps/textures/34.png","/home/alex06/Documents/Local Development/monogame/Content/bin/DesktopGL/maps/textures/34.xnb","TextureProcessor","Texture2DContent",4218,1685,0.1146762
+"/home/alex06/Documents/Local Development/monogame/Content/maps/textures/tblue.png","/home/alex06/Documents/Local Development/monogame/Content/bin/DesktopGL/maps/textures/tblue.xnb","TextureProcessor","Texture2DContent",487,485,0.3366474
+"/home/alex06/Documents/Local Development/monogame/Content/tank/canon.png","/home/alex06/Documents/Local Development/monogame/Content/bin/DesktopGL/tank/canon.xnb","TextureProcessor","Texture2DContent",557,1109,0.3254077
+"/home/alex06/Documents/Local Development/monogame/Content/tank/hull.png","/home/alex06/Documents/Local Development/monogame/Content/bin/DesktopGL/tank/hull.xnb","TextureProcessor","Texture2DContent",645,1109,0.3308002
+"/home/alex06/Documents/Local Development/monogame/Content/trail.png","/home/alex06/Documents/Local Development/monogame/Content/bin/DesktopGL/trail.xnb","TextureProcessor","Texture2DContent",554,1109,0.3590496

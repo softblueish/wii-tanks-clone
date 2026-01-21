@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/alex06/Documents/Local Development/monogame/Content/maps/textures/34.png</File>
+    <File>/home/alex06/Documents/Local Development/monogame/Content/maps/textures/tblue.png</File>
+    <File>/home/alex06/Documents/Local Development/monogame/Content/tank/canon.png</File>
+    <File>/home/alex06/Documents/Local Development/monogame/Content/tank/hull.png</File>
+    <File>/home/alex06/Documents/Local Development/monogame/Content/trail.png</File>
+    <File>/home/alex06/Development/Projects/2023/monogame/Content/audio/BGM/casino.wav</File>
+    <File>/home/alex06/Development/Projects/2023/monogame/Content/ball.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

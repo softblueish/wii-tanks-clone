@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/home/ashley06/Engineering/Software/Projects/2023/monogame/Content/sound/music/17.wav</SourceFile>
+  <SourceTime>2023-10-23T20:09:09.9115616+02:00</SourceTime>
+  <DestFile>/home/ashley06/Engineering/Software/Projects/2023/monogame/Content/bin/DesktopGL/Content/sound/music/17.xnb</DestFile>
+  <DestTime>2024-04-18T12:07:24.1220981+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>/home/ashley06/Engineering/Software/Projects/2023/monogame/Content/bin/DesktopGL/Content/sound/music/17.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
